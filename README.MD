@@ -34,8 +34,8 @@ License -> https://github.com/PredatorHackerzZ/RENAMER-BOT/blob/master/LICENSE
 [CLICK HERE FOR WATCHING THE TUTORIAL VIDEO](https://www.youtube.com/watch?v=2FHgg8o1YY8) 
 
 ### Deploy To Heroku. 
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/PredatorHackerzZ/RENAMER-BOT)
+ https://www.heroku.com/deploy?template=https://github.com/PredatorHackerzZ/RENAMER-BOT
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Ristif/RENAMER-BOT)
 
 
 ### Credits
